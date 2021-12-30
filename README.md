@@ -64,3 +64,21 @@ Now, Insert your flash drive(14gb or more) open a terminal window and type the f
       sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/MyVolume
   
 </details>
+<a name="img" ></a>
+<details>
+  <summary>Olarila image</summary>
+  
+  Using a image from olarila.com
+
+Olarila is a website that provides easy to use altered versions of macOS, These versions are the same at the core but are easy for hackintoshers like us to use, These can be direcrtly flashed to a pendrive using a program such as etcher. 
+<br>Download the desired macOS version from [here](https://www.olarila.com/topic/6278-hackintosh-and-macintosh-olarila-vanilla-images-macos/)
+
+  </details>
+  <a name="gib" ></a>
+  <details>
+  <summary>gibMacOS</summary>
+  gibMacOS is a python script that can download macOS components directly from apple
+From my experience, gibMacOS is great for online installation of macOS, but i do not recommend using the online installer due to our wifi card. gibMacOS can also download the offline installer of macOS but this method is much more difficult and i wouldnt reccomend it.
+<br><br> https://github.com/corpnewt/gibMacOS
+
+  </details>
