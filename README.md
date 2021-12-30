@@ -10,18 +10,21 @@ This repositery is a Documentation / Guide on how to install macOS on the Mi No
 First lets talk about what works and what dosent
 As of right now evreything that you would expect works,
 
-|Feature|	Status
-|Touchpad/Gestures|	✅
-|Keyboard|	✅
-|Audio|	🟢
-|Microphone|	🟨
-|Wifi|	✅
-|Bluetooth|	✅
-|Sleep|	🟢
-|Power Management|	✅
-|Disable dgpu|	✅
-|USB Map|	✅
-|Handoff|	✅
-|Airdrop|	🔴
-|SideCar|	✅
-|HDMI	  |🟢
+|   Features     | Status |
+| ----------------- | :----:  | 
+| Touchpad Gestures |   ✅    |
+| Keyboard          |   ✅    |
+| Audio             |   🟢    |
+| Microphone        |   🟨    |
+| Wifi              |   ✅    |
+| Bluetooth         |   ✅    |
+| Sleep             |   🟢    |
+| Power Management  |   ✅    |
+| Dgpu Disable      |   ✅    |
+| USB Map           |   ✅    |
+| Handoff           |   ✅    |
+| Sidecar           |   ✅    |
+| HDMI              |   ✅    |
+| Airdrop           |   🔴    |
+
+
