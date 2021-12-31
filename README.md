@@ -81,4 +81,5 @@ Olarila is a website that provides easy to use altered versions of macOS, These 
 From my experience, gibMacOS is great for online installation of macOS, but i do not recommend using the online installer due to our wifi card. gibMacOS can also download the offline installer of macOS but this method is much more difficult and i wouldnt reccomend it.
 <br><br> https://github.com/corpnewt/gibMacOS
 
+  
   </details>
