@@ -83,3 +83,14 @@ From my experience, gibMacOS is great for online installation of macOS, but i do
 
   
   </details>
+
+Now that we have out Pendrive with the MacOS bootable install, We are almost done.
+First of download the EFI from the releases page of this repo. For those who are using the online installer of macOS, please switch to AirportITLWM or use the offline installer. another method is to edit the .pilist file present inside the itlwm kext & enter your wifi details there.
+
+After altering the EFI, Paste it in a new partition of approximetly 200-500 mb in size. This partition can either me on the pendrive or in your system itself.
+
+## Booting to the macOS Installer.
+
+Boot using your EFI, Here you should automatically see the Apple logo, if this isnt the case. change the value of ShowPicker in the config.pilist file to True & select "Install MacOS [YOUR MACOS INSTALLER VERSION]".
+
+It might take a few mins, but eventually you should see the MacOS Recovery screen. 
