@@ -1,3 +1,4 @@
+# NO LONGER MAINTAINED
 # Mi-Notebook-14-Horizon-Edition-Hackintosh
 
 ![Laptop Image](https://github.com/PhantomZNeuroX/Mi-Notebook-14-Horizon-Edition-Hackintosh/blob/main/Assets/MI%20notebook%20Monterey.png?style=centerme)
